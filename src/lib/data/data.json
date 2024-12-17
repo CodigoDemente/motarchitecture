@@ -1,0 +1,108 @@
+{
+  "home": {
+    "background": {
+      "isP5enabled": false,
+      "src": "src/lib/data/background.jpg",
+      "alt": "Background Image",
+      "code": null
+    },
+    "projectList": [
+      {
+        "title": "Project Title 1",
+        "subtitle": "Project Subtitle 1",
+        "date": "2023-10-01T00:00:00Z",
+        "size": "small",
+        "images": [
+          {
+            "src": "src/lib/data/1.jpg",
+            "alt": "Project Title 1"
+          },
+          {
+            "src": "src/lib/data/2.jpg",
+            "alt": "Project Title 2"
+          }
+        ]
+      },
+      {
+        "title": "Project Title 2",
+        "subtitle": "Project Subtitle 2",
+        "date": "MM/AAAA",
+        "size": "small",
+        "images": [
+          {
+            "src": "src/lib/data/3.png",
+            "alt": "Project Title 3"
+          },
+          {
+            "src": "src/lib/data/1.jpg",
+            "alt": "Project Title 4"
+          }
+        ]
+      },
+      {
+        "title": "Project Title 3",
+        "subtitle": "Project Subtitle 3",
+        "date": "MM/AAAA",
+        "size": "small",
+        "images": [
+          {
+            "src": "src/lib/data/2.jpg",
+            "alt": "Project Title 1"
+          },
+          {
+            "src": "src/lib/data/1.jpg",
+            "alt": "Project Title 2"
+          }
+        ]
+      },
+        {
+            "title": "Project Title 4",
+            "subtitle": "Project Subtitle 4",
+            "date": "MM/AAAA",
+            "size": "small",
+            "images": [
+            {
+                "src": "src/lib/data/3.png",
+                "alt": "Project Title 3"
+            },
+            {
+                "src": "src/lib/data/2.jpg",
+                "alt": "Project Title 4"
+            }
+            ]
+        },
+        {
+            "title": "Project Title 5",
+            "subtitle": "Project Subtitle 5",
+            "date": "MM/AAAA",
+            "size": "medium",
+            "images": [
+            {
+                "src": "src/lib/data/1.jpg",
+                "alt": "Project Title 1"
+            },
+            {
+                "src": "src/lib/data/3.png",
+                "alt": "Project Title 2"
+            }
+            ]
+        },
+        {
+            "title": "Project Title 6",
+            "subtitle": "Project Subtitle 6",
+            "date": "MM/AAAA",
+            "size": "small",
+            "images": [
+            {
+                "src": "src/lib/data/2.jpg",
+                "alt": "Project Title 1"
+            },
+            {
+                "src": "src/lib/data/1.jpg",
+                "alt": "Project Title 2"
+            }
+            ]
+        }
+    ]
+  }
+}
